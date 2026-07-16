@@ -33,13 +33,13 @@
     "expo module",
     "@hzblj/react-native-materials"
   ],
-  "repository": "https://github.com/JBlazej/react-native-materials",
+  "repository": "https://github.com/hzblj/react-native-materials",
   "bugs": {
-    "url": "https://github.com/JBlazej/react-native-materials/issues"
+    "url": "https://github.com/hzblj/react-native-materials/issues"
   },
-  "author": "Jan Blazej <jan.blazej@outlook.com> (https://github.com/JBlazej)",
+  "author": "Jan Blazej <jan.blazej@outlook.com> (https://github.com/hzblj)",
   "license": "MIT",
-  "homepage": "https://github.com/JBlazej/react-native-materials#readme",
+  "homepage": "https://github.com/hzblj/react-native-materials#readme",
   "publishConfig": {
     "access": "public"
   },
