@@ -19,7 +19,7 @@ config.resolver.nodeModulesPaths = [
 ]
 
 config.resolver.extraNodeModules = {
-  '@janblazej/react-native-materials': '..',
+  '@hzblj/react-native-materials': '..',
 }
 
 config.watchFolders = [path.resolve(__dirname, '..')]

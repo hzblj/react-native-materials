@@ -6,7 +6,7 @@ module.exports = async (env, argv) => {
     {
       ...env,
       babel: {
-        dangerouslyAddModulePathsToTranspile: ['@janblazej/react-native-materials'],
+        dangerouslyAddModulePathsToTranspile: ['@hzblj/react-native-materials'],
       },
     },
     argv

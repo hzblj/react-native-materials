@@ -1,5 +1,5 @@
 {
-  "name": "@janblazej/react-native-materials",
+  "name": "@hzblj/react-native-materials",
   "version": "0.1.2",
   "description": "React Native component for native Material effects",
   "main": "build/index.js",
@@ -31,7 +31,7 @@
     "Jetpack Compose",
     "native",
     "expo module",
-    "@janblazej/react-native-materials"
+    "@hzblj/react-native-materials"
   ],
   "repository": "https://github.com/JBlazej/react-native-materials",
   "bugs": {
@@ -43,7 +43,7 @@
   "dependencies": {},
   "devDependencies": {
     "@eslint/js": "^9.30.1",
-    "@janblazej/eslint-config-react-native": "^0.1.1",
+    "@hzblj/eslint-config-react-native": "^0.1.1",
     "@types/react": "~19.0.0",
     "concurrently": "^9.2.0",
     "eslint": "^9.30.1",

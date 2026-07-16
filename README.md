@@ -1,4 +1,4 @@
-# @janblazej/react-native-materials
+# @hzblj/react-native-materials
 
 React Native component for native Material effects — using SwiftUI `Material` on iOS and `RenderEffect` on Android for consistent blur and translucency.
 
@@ -21,7 +21,7 @@ React Native component for native Material effects — using SwiftUI `Material` 
 ## Installation
 
 ```sh
-yarn add @janblazej/react-native-materials
+yarn add @hzblj/react-native-materials
 ```
 
 > **Note:** After installing, you need to prebuild your app to generate the native code. Run:
@@ -36,7 +36,7 @@ yarn add @janblazej/react-native-materials
 ## Usage
 
 ```tsx
-import { MaterialView } from '@janblazej/react-native-materials'
+import { MaterialView } from '@hzblj/react-native-materials'
 
 <VStack>
     <MaterialView material="thin" style={StyleSheet.absoluteFill} />

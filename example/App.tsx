@@ -1,4 +1,4 @@
-import {Material, MaterialView} from '@janblazej/react-native-materials'
+import {Material, MaterialView} from '@hzblj/react-native-materials'
 import {LinearGradient} from 'expo-linear-gradient'
 import {useEffect, useState} from 'react'
 import {Appearance, ColorSchemeName, SafeAreaView, ScrollView, StyleSheet, Switch, Text, View} from 'react-native'
