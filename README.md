@@ -1,5 +1,8 @@
 # @hzblj/react-native-materials
 
+[![npm](https://img.shields.io/npm/v/@hzblj/react-native-materials.svg)](https://www.npmjs.com/package/@hzblj/react-native-materials)
+[![license](https://img.shields.io/npm/l/@hzblj/react-native-materials.svg)](./LICENSE)
+
 React Native component for native Material effects — using SwiftUI `Material` on iOS and `RenderEffect` on Android for consistent blur and translucency.
 
 ## Features
