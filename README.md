@@ -65,5 +65,9 @@ import { MaterialView } from '@hzblj/react-native-materials'
 - [Android MaterialView.kt](./android/src/main/java/com/janblazej/materials/MaterialView.kt)
 
 
+## Sponsorship
+
+<a href="https://www.buymeacoffee.com/hzblj"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="48"></a>
+
 ## License
 MIT
